@@ -1,0 +1,1 @@
+INSERT INTO `tutorials` (`id`, `title`, `description`, `published`) VALUES ('1', 'NODE', 'Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a', '0'), ('2', 'Express', 'JavaScript Engine and executes JavaScript code outside a web browser,', '1');
